@@ -8,7 +8,7 @@
 - Process final files in Logic
 - Final checks and upload
 
-
+--- 
 ***Prep Zoom files for Logic***
 
 - Create a working dir for the project with a title in the standard format
