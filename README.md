@@ -1,5 +1,14 @@
 **STEPS FOR PREPPING FILES FOR EDIT**
 
+## Tasks
+
+- Prep Zoom files for Logic
+- Pre-process wavs in Logic
+- Process files in Descript
+- Process final files in Logic
+- Final checks and upload
+
+
 ***Prep Zoom files for Logic***
 
 - Create a working dir for the project with a title in the standard format
