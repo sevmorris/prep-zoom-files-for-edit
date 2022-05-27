@@ -2,12 +2,6 @@
 
 ### Tasks
 
-- Prep Zoom files for Logic
-- Pre-process wavs in Logic
-- Process files in Descript
-- Process final files in Logic
-- Final checks and upload
-
 ---
 **Prep Zoom files for Logic**
 <br>
@@ -19,12 +13,12 @@ Open files in iZotope RX9:
   - Save as 24bit wav
 <br>
 
-**Pre-process wavs in Logic**
+**Pre-process wav files in Logic**
 <br>
 
 Create a Logic project with the same title as working dir<br>
 Import wavs into the project<br>
-    - Files from more than one source will need to be synced manually in Logic<br>
+(Files from more than one source will need to be synced manually in Logic)<br>
 Create a working dir subdir named "exports"<br>
 Export files to "exports" dir<br>
 <br>
