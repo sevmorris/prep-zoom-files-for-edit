@@ -9,7 +9,7 @@
 - Final checks and upload
 
 ---
-***Prep Zoom files for Logic***
+**Prep Zoom files for Logic**
 <br>
 
 Create a working dir for the project with a title in the standard format<br>
@@ -19,8 +19,8 @@ Open files in iZotope RX9:
   - Save as 24bit wav
 
 
-***Pre-process wavs in Logic***
-<br><br>
+**Pre-process wavs in Logic**
+<br>
 
 Create a Logic project with the same title as working dir
 Import wavs into the project
@@ -29,8 +29,9 @@ Create a working dir subdir named "exports"
 Export files to "exports" dir
 
 
-***Process files in Descript***
-<br><br>
+**Process files in Descript**
+<br>
+
 Create a new project with the same name as working dir
 Drag the files from "exports" into the Descript "Project Files" folder
 Apply Studio Sound to each file
@@ -39,8 +40,9 @@ Append _ss to the end of the composition titles
 Select each composition, then select Share and export as a wav file
 
 
-***Process final files in Logic***
-<br><br>
+**Process final files in Logic**
+<br>
+
 Open the Logic project and delete existing audio
 Drag the new files exported from Descript into the Logic project
 Make any prep edits if needed
@@ -48,7 +50,8 @@ Create a working dir subdir named "prepped"
 Export all files to "prepped" dir
 
 
-***Final checks and upload***
-<br><br>
+**Final checks and upload**
+<br>
+
 Open files in iZotope and adjust level if necessary
 Upload for editor
