@@ -28,7 +28,6 @@ Import wavs into the project<br>
 Create a working dir subdir named "exports"<br>
 Export files to "exports" dir<br>
 
-<br><br>
 
 **Process files in Descript**
 <br>
@@ -40,7 +39,6 @@ Create a composition from each file _after Studio Sound process completes_<br>
 Append _ss to the end of the composition titles<br>
 Select each composition, then select Share and export as a wav file<br>
 
-<br><br>
 
 **Process final files in Logic**
 <br>
@@ -51,7 +49,6 @@ Make any prep edits if needed<br>
 Create a working dir subdir named "prepped"<br>
 Export all files to "prepped" dir<br>
 
-<br><br>
 
 **Final checks and upload**
 <br>
