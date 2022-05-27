@@ -1,6 +1,6 @@
-**STEPS FOR PREPPING ZOOM FILES FOR EDIT**
+# STEPS FOR PREPPING ZOOM FILES FOR EDIT
 
-## Tasks
+### Tasks
 
 - Prep Zoom files for Logic
 - Pre-process wavs in Logic
