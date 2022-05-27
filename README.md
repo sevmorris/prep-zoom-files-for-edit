@@ -1,7 +1,5 @@
 ## PREPPING ZOOM FILES FOR PODCAST EDIT
 
-### Tasks
-
 ---
 **Prep Zoom files for Logic**
 <br>
