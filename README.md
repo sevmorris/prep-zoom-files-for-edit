@@ -17,7 +17,7 @@ Copy raw Zoom audio files to the working dir<br>
 Open files in iZotope RX9:
   - Resample @ 44.1kHz
   - Save as 24bit wav
-
+<br>
 
 **Pre-process wavs in Logic**
 <br>
@@ -27,7 +27,7 @@ Import wavs into the project<br>
     - Files from more than one source will need to be synced manually in Logic<br>
 Create a working dir subdir named "exports"<br>
 Export files to "exports" dir<br>
-
+<br>
 
 **Process files in Descript**
 <br>
@@ -38,7 +38,7 @@ Apply Studio Sound to each file<br>
 Create a composition from each file _after Studio Sound process completes_<br>
 Append _ss to the end of the composition titles<br>
 Select each composition, then select Share and export as a wav file<br>
-
+<br>
 
 **Process final files in Logic**
 <br>
@@ -48,10 +48,11 @@ Drag the new files exported from Descript into the Logic project<br>
 Make any prep edits if needed<br>
 Create a working dir subdir named "prepped"<br>
 Export all files to "prepped" dir<br>
-
+<br>
 
 **Final checks and upload**
 <br>
 
 Open files in iZotope and adjust level if necessary<br>
-Upload for editor<br>
+Upload for editor
+<br>
