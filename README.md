@@ -4,6 +4,7 @@
 
 <details>
   <summary>Prep Zoom files for Logic</summary>
+  <br>
   • Create a working dir for the project with a title in the standard format<br>
   • Copy raw Zoom audio files to the working dir<br>
   • Open files in iZotope RX9:<br>
@@ -14,6 +15,7 @@
 
 <details>
   <summary>Pre-process wav files in Logic</summary>
+    <br>
   • Create a Logic project with the same title as working dir<br>
   • Import wavs into the project<br>
     (Files from more than one source will need to be synced manually in Logic)<br>
@@ -24,6 +26,7 @@
 
 <details>
   <summary>Process files in Descript</summary>
+    <br>
   • Create a new project with the same name as working dir<br>
   • Drag the files from "exports" into the Descript "Project Files" folder<br>
   • Apply Studio Sound to each file<br>
@@ -35,6 +38,7 @@
 
 <details>
   <summary>Process final files in Logic</summary>
+    <br>
   • Open the Logic project and delete existing audio<br>
   • Drag the new files exported from Descript into the Logic project<br>
   • Make any prep edits if needed<br>
@@ -45,6 +49,7 @@
 
 <details>
   <summary>Final checks and upload</summary>
+    <br>
   • Open the Logic project and delete existing audio<br>
   • Drag the new files exported from Descript into the Logic project<br>
   • Make any prep edits if needed<br>
