@@ -8,7 +8,7 @@ Public so I can share and access from anywhere.
   <summary>Prep Zoom files for Logic</summary>
   <br>
   • Create a folder for the project with a title in the standard format<br>
-  • Copy (do not move) original Zoom files to the working folder<br>
+  • Copy (do not move) the original Zoom files to the working folder<br>
   • Open files in iZotope RX9:<br>
       • Resample @ 44.1kHz<br>
       • Save as 24bit wav<br>
@@ -21,8 +21,8 @@ Public so I can share and access from anywhere.
   • Create a Logic project with the same title as project folder<br>
   • Import wavs into Logic<br>
     (Files from more than one source will need to be synced manually in Logic)<br>
-  • Create a subdir in project folder named "exports"<br>
-  • Export files from Logic to "exports" folder<br>
+  • Create a subfolder in the project folder named "exports"<br>
+  • Export files from Logic into the "exports" folder<br>
 
 </details>
 
@@ -44,8 +44,8 @@ Public so I can share and access from anywhere.
   • Open the Logic project and delete existing audio<br>
   • Drag the new files exported from Descript into the Logic project<br>
   • Make cuts if needed<br>
-  • Create a new subdir in project folder named "prepped"<br>
-  • Export all files from Logic to "prepped" folder<br>
+  • Create a new subfolder in the project folder named "prepped"<br>
+  • Export all files from Logic into the "prepped" folder<br>
 
 </details>
 
@@ -53,6 +53,6 @@ Public so I can share and access from anywhere.
   <summary>Final checks and upload</summary>
     <br>
   • Open "prepped" files in iZotope and adjust level if necessary<br>
-  • Upload for editor<br>
+  • Upload files for the editor<br>
 
 </details>
