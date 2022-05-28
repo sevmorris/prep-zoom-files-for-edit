@@ -1,7 +1,7 @@
 ## Prepping Zoom Audio Files For Podcast Editors
 
 ---
-These are _my_ specific steps using _my_ specific software to process Zoom files for _my_ editors.
+These are _my_ specific steps using _my_ specific software to process Zoom files for _my_ editors.<br>
 Public so I can share and access from anywhere.
 
 <details>
