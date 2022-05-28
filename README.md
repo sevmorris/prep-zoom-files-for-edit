@@ -32,7 +32,7 @@ Public so I can share and access from anywhere.
   • Create a new Descript project with the same name as project folder<br>
   • Drag the files from "exports" into the Descript "Project Files" folder<br>
   • Apply Studio Sound to each file<br>
-  • _After Studio Sound process completes_ create a composition from each file<br>
+  • After Studio Sound process completes, create a composition from each file<br>
   • Append _ss to the end of composition titles<br>
   • Select each composition, then select Share and export as a wav file<br>
 
