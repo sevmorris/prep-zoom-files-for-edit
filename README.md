@@ -2,6 +2,7 @@
 
 ---
 These are _my_ specific steps using _my_ specific software to process Zoom files for _my_ editors.
+Public so I can share and access from anywhere.
 
 <details>
   <summary>Prep Zoom files for Logic</summary>
