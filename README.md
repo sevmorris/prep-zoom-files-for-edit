@@ -6,7 +6,7 @@
   <summary>Prep Zoom files for Logic</summary>
   <br>
   • Create a folder for the project with a title in the standard format<br>
-  • Copy raw Zoom audio files to the working dir<br>
+  • *Copy* raw Zoom audio files to the working folder<br>
   • Open files in iZotope RX9:<br>
       • Resample @ 44.1kHz<br>
       • Save as 24bit wav<br>
