@@ -1,15 +1,17 @@
 ## PREPPING ZOOM FILES FOR PODCAST EDIT
 
 ---
-**Prep Zoom files for Logic**
-<br>
 
-Create a working dir for the project with a title in the standard format<br>
-Copy raw Zoom audio files to the working dir<br>
-Open files in iZotope RX9:
-  - Resample @ 44.1kHz
-  - Save as 24bit wav
-<br>
+<details>
+  <summary>Prep Zoom files for Logic</summary>
+  <br>
+  Create a working dir for the project with a title in the standard format<br>
+  Copy raw Zoom audio files to the working dir<br>
+  Open files in iZotope RX9:
+    - Resample @ 44.1kHz
+    - Save as 24bit wav
+
+</details>
 
 **Pre-process wav files in Logic**
 <br>
